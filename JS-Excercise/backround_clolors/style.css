@@ -1,0 +1,6 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;  /* 100vh= 100 view height, fit the screen height */
+}
