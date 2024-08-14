@@ -13,7 +13,7 @@ console.log(`your name is ${username}`)
 
 // another variation of while loop 
 //do . . . while 
-//meaning do the code firs then check the codition at the end
+//meaning do the code first then check the codition at the end
 
 let username1 //while using do...while notice we don't need to set Username1 a Value 
 
